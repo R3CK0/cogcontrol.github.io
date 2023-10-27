@@ -69,6 +69,11 @@ Beyond engineering, Nicholas's academic journey includes explorations into Physi
 At BRP, Nicholas Massad had the opportunity to work with a dedicated team on sales forecasting, leveraging machine learning to support data-driven decisions. Which he followed up with 2 amazing interships at Levio, where he developped new approaches to algorithmic planning.
 
 Currently pursuing a master's in AI at the University of Sherbrooke, Nicholas Massad is keen on learning, sharing, and collaborating to contribute meaningfully to the broader AI and robotics community.
-- **Team Member 2**: [Brief Bio]
 
+- **B. Sc. Léo Chartrand**: Léo Chartrand completed his comupter science studies at Université de Sherbrooke. Fueled by a thirst for knowledge, he dedicated his last semester to pursuing several advanced courses on AI, two of which are normally reserved for graduate students, covering NLP, Deep Learning and Reinforcement Learning. Léo also had the opportunity to work on a few projects that delve into imitation learning, simulation and parallel computing.
 
+  During his studies, Léo Chartrand had the privilege to work as a Software Analyst at the **Ministère de l'Agriculture, des Pêcheries et de l'Alimentation du Québec**, where he supervised the development of new features for the laboratory information management system, which is used for epidemio-surveillance throughout the province.
+
+  Now working with the CogControl team, Léo strives to push research on AI, exploring innovative approaches that could lead to genuine reasoning and contribute to the ever growing field of artificial intelligence.
+
+- **Team member #3**: 
