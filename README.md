@@ -1,78 +1,74 @@
-# h1 heading
-## h2 heading
-### h3 heading
-#### h4 heading
-##### h5 heading
+# CogControl
 
-## Horizontal Rules
+---
 
-___
+## Home
+![Alt text](assets/home_image.png)
 
-**This is bold text**
+Welcome to our Cognitive Robotics Research Team website! Here, we aim to push the boundaries of robotics and artificial intelligence. Explore the page to learn more about our groundbreaking projects and incredible team.
 
-__This is bold text__
+---
 
-*this is italic text*
+## NeuroSym Robotics
+![Alt text](assets/Nick_Project_image.png)
 
-_this is italic text_
+### Description
+Imagine speaking to a robot as naturally as you speak to a friend, and watching it carry out complex tasks flawlessly. Welcome to our groundbreaking research, where we're breaking the language barrier between humans and machines. By leveraging the power of Natural Language Processing (NLP), we're transforming everyday conversations into Precise Descriptive Declarative Language (PDDL) that robots understand. Forget tedious coding or complicated interfaces; command your robotic assistant simply by talking to it! We're revolutionizing the way robotic tasks are planned and executed, all through the power of Large Language Models.
 
-~~strickethrough~~
+### Goals
+- Making robots 'see and understand' your commands, not just hear them.
+- Turning Boston Dynamics' SPOT into your smartest, most visually-aware assistant yet.
 
-## Blockquotes
+### Motivation
+Uniting the intelligence of neural networks with the precision of symbolic AI, our research is paving the way for faster, more reliable robotic systems. By making it simpler for humans to create plans for robots, we're opening doors to life-changing applications—from disaster relief and defense strategies to smarter homes. Our ultimate goal? Democratizing robotics to make advanced technology accessible to everyone.
 
-> Blockquotes can also be nested ...
->> ... by using additional greater-than signs right next to each other...
-> > > ... or with spaces between arrows.
+---
+
+## Project 2
+<!---![Alt text](URL_of_project2_image.jpg)--->
+
+### Description
+Project 2 focuses on [Brief Description].
+
+### Goals
+- Goal 1
+- Goal 2
+
+### Motivation
+Our main motivation is [Motivation].
+
+---
+
+## Project 3
+<!---![Alt text](URL_of_project3_image.jpg)--->
+
+### Description
+Project 3 focuses on [Brief Description].
+
+### Goals
+- Goal 1
+- Goal 2
+
+### Motivation
+Our main motivation is [Motivation].
+
+---
+
+## About Us
+<!---<div style="display:flex; flex-direction: row;">
+  <img src="team_member1_image.jpg" alt="Member 1" width="100"/>
+  <img src="team_member2_image.jpg" alt="Member 2" width="100"/>
+</div>--->
+
+- **B. ing. Nicholas Massad**: Trained in Electrical Engineering with a focus on Artificial Intelligence at the University of Sherbrooke, Nicholas Massad values the intersection of theory and practical application. This was demonstrated in a collaborative effort to design a hybrid gas-powered drone, optimized for challenging conditions.
+
+A believer in teamwork and shared visions, Nicholas Massad contributed to restarting the Rocket project at the University of Sherbrooke **CASUS**, which led to a collective participation in the Spaceport competition in 2019.
+
+Beyond engineering, Nicholas's academic journey includes explorations into Physics which led to his interest in electrical engineering and an 3 year experience with Biotechnology during his cegep years. This varied background has been instrumental in approaching challenges with a multidisciplinary lens.
+
+At BRP, Nicholas Massad had the opportunity to work with a dedicated team on sales forecasting, leveraging machine learning to support data-driven decisions. Which he followed up with 2 amazing interships at Levio, where he developped new approaches to algorithmic planning.
+
+Currently pursuing a master's in AI at the University of Sherbrooke, Nicholas Massad is keen on learning, sharing, and collaborating to contribute meaningfully to the broader AI and robotics community.
+- **Team Member 2**: [Brief Bio]
 
 
-## Lists
-
-Unordered
-
-+ Create a list by strating a line with `+`, `-` or `*`
-+ sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volupat aliquam velit
-    
-ordered
-
-1. Hello
-2. I 
-3. am
-4. Nick
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // some comment
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-```
-Sample text here ...
-```
-
-## Tables 
-
-| Option | Description |
-| ------ | -----------:|
-| data   | stuff goes here basically |
-| engine | a good engine is a V8 turbo |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-
-## The end!
